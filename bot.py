@@ -18,7 +18,7 @@ APPROVAL_CHANNELS     = ["ssrp-approval", "outrider-ssrp-approval"]
 REPORT_CHANNEL_NAME   = "leaderboard-ssrp-command"
 INACTIVE_CHANNEL_NAME = "inactive-permission"
 LOG_CHANNEL_NAME      = "ssrp-check"
-ADMIN_ROLE_ID         = 1502820688572973096
+ADMIN_ROLE_ID         = 1358301859663839374
 SUBMIT_COOLDOWN       = 30  # detik jeda antar submit
 
 # ─── EDIT TEKS PENGUMUMAN SENIN ──────────────────────
