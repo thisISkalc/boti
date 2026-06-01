@@ -25,7 +25,7 @@ SUBMIT_COOLDOWN       = 30  # detik jeda antar submit
 ANNOUNCE_TEXT = """📢 **PENGUMUMAN SSRP MINGGUAN!**
 
 ⚠️ Poin minggu ini telah **direset**!
-Semangat submit SSRP minggu ini ya!
+Semangat submit SSRP minggu ini ya!!
 
 🎭 Submit screenshot SSRP di channel ini!
 🏆 Cek poin: `!point`
